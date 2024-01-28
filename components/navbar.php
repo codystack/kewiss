@@ -1,7 +1,6 @@
     <header class="navbar navbar-expand-lg fixed-top">
         <div class="container">
 
-            <!-- Navbar brand (Logo) -->
             <a class="navbar-brand pe-sm-3" href="./">
                 <span class="text-primary flex-shrink-0 me-2">
                 <img src="assets/img/logoDark.svg" alt="logo" width="100">
@@ -15,16 +14,14 @@
                 Download
             </a>
 
-            <!-- Mobile menu toggler (Hamburger) -->
             <button class="navbar-toggler ms-sm-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <!-- Navbar collapse (Main navigation) -->
             <nav class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav navbar-nav-scroll mx-auto" style="--ar-scroll-height: 520px;">
                     <li class="nav-item">
-                        <a class="nav-link" href="">How it works</a>
+                        <a class="nav-link" href="how-it-works">How it works</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about">About us</a>

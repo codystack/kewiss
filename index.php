@@ -112,8 +112,6 @@ include "./components/navbar.php";
             </div>
         </section>
 
-
-        <!-- Stats -->
         <section class="container pt-5 mt-lg-3 mt-xl-4 mt-xxl-5">
             <div class="row pt-2 pt-sm-3 pt-md-4 pt-lg-5 pb-xxl-2 mt-md-3 mt-lg-0">
             <div class="col-lg-5 mb-5 mb-lg-0">
@@ -161,9 +159,7 @@ include "./components/navbar.php";
             </div>
         </section>
 
-
-        <!-- Features  -->
-        <section class="container pt-5 mt-lg-3 mt-xl-4 mt-xxl-5 mb-lg-5">
+        <section class="container pt-5 mt-lg-5 mt-xl-5 mt-xxl-5 mb-lg-5">
             <div class="row align-items-center pt-3 pt-sm-4 pt-lg-5 mt-md-3 mt-lg-0">
             <div class="col-md-6 pb-2 pb-sm-0 mb-4 mb-sm-5 mb-md-0">
 
@@ -247,11 +243,8 @@ include "./components/navbar.php";
             </div>
         </section>
 
-
         <?php include "./components/downloadcta.php"; ?>
 
-
-        <!-- Testimonials carousel -->
         <section class="container py-5 mb-1 mb-sm-2 my-lg-3 my-xl-4 my-xxl-5">
             <div class="row justify-content-center pt-2 pt-sm-4 pb-4 mb-2 mb-lg-3">
             <div class="col-lg-8 col-xl-7 col-xxl-6 text-center pt-2">
