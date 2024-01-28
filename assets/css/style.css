@@ -14688,8 +14688,8 @@ html:not([dir=rtl]) .range-slider-ui.noUi-horizontal .noUi-handle {
 
 [class^=btn-outline-],
 [class*=" btn-outline-"] {
-    --ar-btn-hover-color: #000;
-    --ar-btn-active-color: #000
+    --ar-btn-hover-color: #fff;
+    --ar-btn-active-color: #fff
 }
 
 .btn-outline-secondary {
