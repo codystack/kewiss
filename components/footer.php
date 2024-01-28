@@ -32,7 +32,7 @@
                             <h6 class="fw-bold">Support</h6>
                             <ul class="nav flex-column fs-sm">
                             <li class="nav-item">
-                                <a class="nav-link fw-normal px-0 py-1" href="help">Help center</a>
+                                <a class="nav-link fw-normal px-0 py-1" href="contact">Help</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link fw-normal px-0 py-1" href="terms">Terms of service</a>

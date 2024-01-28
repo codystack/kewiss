@@ -33,7 +33,7 @@
                         <a class="nav-link" href="safety">Safety</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="help">Help</a>
+                        <a class="nav-link" href="contact">Help</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="faq">FAQ</a>
