@@ -17,7 +17,7 @@ include "./components/navbar.php";
                     <div class="card border-0 h-100">
                         <div class="card-body">
                             <h4 class="card-title mb-4">Address</h4>
-                            <p class="fs-lg fw-medium pb-3 mb-3">Ekpoma, Benin City.</p>
+                            <p class="fs-lg fw-medium pb-3 mb-3">Ujemen Ekpoma opposite <Det></Det>uke water before Abia junction, Ekpoma Edo State.</p>
                         </div>
                     </div>
                 </div>
