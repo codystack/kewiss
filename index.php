@@ -262,7 +262,7 @@ include "./components/navbar.php";
                 <div class="swiper-slide h-auto">
                 <div class="card border-0 bg-info bg-opacity-10 h-100 text-center">
                     <div class="polygon-avatar bg-info mx-auto translate-middle-y">
-                    <img src="assets/img/landing/mobile-app-showcase/testimonials/01.png" alt="Nick Williams">
+                    <img src="assets/img/testimonials/01.png" alt="Nick Williams">
                     </div>
                     <div class="card-body pt-0 mt-n4">
                     <p class="card-text fs-xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis libero vitae sem ornare ornare. Aliquam ut sapien vitae quam blandit egestas. Quisque nulla elit, fermentum et tincidunt tempor, rutrum at leo. Curabitur massa quam, aliquam eu sapien sed.</p>
@@ -278,7 +278,7 @@ include "./components/navbar.php";
                 <div class="swiper-slide h-auto">
                 <div class="card border-0 bg-warning bg-opacity-10 h-100 text-center">
                     <div class="polygon-avatar bg-warning mx-auto translate-middle-y">
-                    <img src="assets/img/landing/mobile-app-showcase/testimonials/02.png" alt="Lili Bocouse">
+                    <img src="assets/img/testimonials/02.png" alt="Lili Bocouse">
                     </div>
                     <div class="card-body pt-0 mt-n4">
                     <p class="card-text fs-xl">Proin interdum purus non quam convallis, quis dignissim leo cursus. Praesent finibus elit nisl, sed ultrices elit lobortis in. Donec laoreet sit amet nulla quis hendrerit. Praesent venenatis mattis ante. Praesent justo elit, suscipit a libero sit amet, luctus posuere mi.</p>
@@ -294,7 +294,7 @@ include "./components/navbar.php";
                 <div class="swiper-slide h-auto">
                 <div class="card border-0 bg-primary bg-opacity-10 h-100 text-center">
                     <div class="polygon-avatar bg-primary mx-auto translate-middle-y">
-                    <img src="assets/img/landing/mobile-app-showcase/testimonials/04.png" alt="Esther Howard">
+                    <img src="assets/img/testimonials/04.png" alt="Esther Howard">
                     </div>
                     <div class="card-body pt-0 mt-n4">
                     <p class="card-text fs-xl">Viverra aliquam interdum mauris facilisi commodo euismod sit est. Et auctor diam a ac vitae vestibulum, eu. Tortor id aliquet rhoncus at orci et tempus, dictum turpis. Purus sit porta lacus, velit. Bibendum at nunc et, ac id vitae nibh semper in dignissim ac nascetur lorem et.</p>
@@ -310,7 +310,7 @@ include "./components/navbar.php";
                 <div class="swiper-slide h-auto">
                 <div class="card border-0 bg-danger bg-opacity-10 h-100 text-center">
                     <div class="polygon-avatar bg-danger mx-auto translate-middle-y">
-                    <img src="assets/img/landing/mobile-app-showcase/testimonials/03.png" alt="Jane Cooper">
+                    <img src="assets/img/testimonials/03.png" alt="Jane Cooper">
                     </div>
                     <div class="card-body pt-0 mt-n4">
                     <p class="card-text fs-xl">Nam arcu ut in bibendum tincidunt quam massa vitae viverra sem eget. Felis morbi augue cras praesent arcu purus non id consequat dignissim sollicitudin tincidunt dui, dui felis ut ultricies vestibulum ipsum ullamcorper nunc at massa a aliquam massa lacus enim.</p>
