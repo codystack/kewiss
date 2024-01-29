@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
 
     <title>Kewiss Ride&trade; :: Classy Rides, Every Time</title>
-    <meta name="description" content="Around - Multipurpose Bootstrap HTML Template">
-    <meta name="keywords" content="bootstrap, business, corporate, coworking space, services, creative agency, dashboard, e-commerce, mobile app showcase, saas, multipurpose, product landing, shop, software, ui kit, web studio, landing, light and dark mode, html5, css3, javascript, gallery, slider, touch, creative">
-    <meta name="author" content="Createx Studio">
+    <meta name="description" content="Kewiss Ride is more than just a ride-hailing app. We're a tech-powered ecosystem that seamlessly connects riders with a diverse fleet of transportation options. Need a quick zip across town? Our comfortable cars and experienced drivers are ready to whisk you away. Craving a touch of luxury? Opt for our premium car selections, where every ride feels like a first-class experience.">
+    <meta name="keywords" content="ride hailing, bolt, uber, indrive, palm drive, taxi, ride, e-taxi, ">
+    <meta name="author" content="Webify.com.ng">
 
     <link rel="manifest" href="manifest.json">
     <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="32x32">
