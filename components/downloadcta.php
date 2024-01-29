@@ -16,6 +16,7 @@
                         </div>
 
                     </div>
+                    
                     <div class="col-md-6 col-lg-5 offset-xl-1">
 
                         <img class="d-block d-md-none mx-auto" src="assets/img/bookride.png" width="420" alt="App screen">

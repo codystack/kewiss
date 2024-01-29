@@ -21,7 +21,7 @@
                                     <a class="nav-link fw-normal px-0 py-1" href="about">About us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link fw-normal px-0 py-1" href="driver">Drive for kewiss</a>
+                                    <a class="nav-link fw-normal px-0 py-1" href="safety">Safety</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link fw-normal px-0 py-1" href="partnership">Partnership</a>
