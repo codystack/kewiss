@@ -239,7 +239,7 @@ include "./components/navbar.php";
         <section class="container py-5 mb-1 mb-sm-2 my-lg-3 my-xl-4 my-xxl-5">
             <div class="row justify-content-center pt-2 pt-sm-4 pb-4 mb-2 mb-lg-3">
             <div class="col-lg-8 col-xl-7 col-xxl-6 text-center pt-2">
-                <h2 class="h1 mb-1">Testimonials from students who recommend Around</h2>
+                <h2 class="h1 mb-1">See testimonials from Kewiss riders.</h2>
             </div>
             </div>
             <div class="swiper pb-2 pb-sm-4" data-swiper-options='{
