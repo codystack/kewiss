@@ -9,9 +9,9 @@ include "./components/header.php";
                 <i class="ai-home"></i>
             </button>
 
-            <div class="d-flex flex-column w-lg-50 pb-5 pt-5">
-                <div class="w-100">
-                    <h2 class="display-3 text-dark text-center">Download the <br class="d-none d-xxl-inline">Driver app</h2>
+            <div class="d-flex flex-column w-lg-50 pb-5 pt-5 h-100">
+                <div class="w-100 px-5" style="position: relative; transform: translate(0, 70%);">
+                    <h2 class="display-3 text-dark text-center">Download the <br class="d-none d-xxl-inline">Rider app</h2>
 
                     <div class="col pb-sm-3 pt-5 py-md-0 py-lg-5" data-aos="fade-up" data-aos-duration="500" data-aos-offset="250" data-disable-parallax-down="lg">
                         <div class="d-flex flex-column flex-sm-row justify-content-center">
@@ -26,16 +26,16 @@ include "./components/header.php";
                 </div>
             </div>
 
-            <div class="w-lg-50 h-100 bg-dark pb-5 pt-5">
-                <div class="w-100">
-                    <h2 class="display-3 text-white text-center">Download the <br class="d-none d-xxl-inline">Driver app</h2>
+            <div class="w-lg-50 h-100 bg-dark pb-5 pt-5 h-100">
+                <div class="w-100 px-5" style="position: relative; transform: translate(0, 70%);">
+                    <h2 class="display-3 text-center" style="color: #a7e92f">Download the <br class="d-none d-xxl-inline">Driver app</h2>
 
                     <div class="col pb-sm-3 pt-5 py-md-0 py-lg-5" data-aos="fade-up" data-aos-duration="500" data-aos-offset="250" data-disable-parallax-down="lg">
                         <div class="d-flex flex-column flex-sm-row justify-content-center">
-                            <a class="btn btn-light btn-lg px-3 py-2 me-sm-3 mb-3 mb-sm-0" href="#">
+                            <a class="btn btn-lg px-3 py-2 me-sm-3 mb-3 mb-sm-0" href="#" style="background-color: #a7e92f">
                                 <img class="mx-1" src="assets/img/market/appstore-dark.svg" width="136" alt="App Store">
                             </a>
-                            <a class="btn btn-light btn-lg px-3 py-2" href="#">
+                            <a class="btn btn-light btn-lg px-3 py-2" href="#" style="background-color: #a7e92f">
                                 <img class="mx-1" src="assets/img/market/googleplay-dark.svg" width="135" alt="Google Play">
                             </a>
                         </div>

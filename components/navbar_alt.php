@@ -6,7 +6,7 @@
                 <img src="assets/img/logoDark.svg" alt="logo" width="100">
             </a>
 
-            <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="download">
+            <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
                 Partnership
             </a>
 
@@ -37,7 +37,7 @@
                     </li>
                 </ul>
                 <div class="d-sm-none p-3 mt-n3">
-                    <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="download">
+                    <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
                         Partnership
                     </a>
                     <a class="btn btn-dark w-100 mb-1" href="download">

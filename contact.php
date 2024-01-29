@@ -29,7 +29,7 @@ include "./components/navbar.php";
                         <ul class="list-unstyled mb-0">
                         <li class="pb-1 mb-2">
                             <span class="d-block fs-sm text-body-secondary mb-1">Main office</span>
-                            <a class="nav-link fs-lg p-0" href="+2349070604413">+234 907 060 4413</a>
+                            <a class="nav-link fs-lg p-0" href="tel:+2349070604413">+234 907 060 4413</a>
                         </li>
                         </ul>
                     </div>
