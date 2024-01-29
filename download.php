@@ -35,7 +35,7 @@ include "./components/header.php";
                             <a class="btn btn-lg px-3 py-2 me-sm-3 mb-3 mb-sm-0" href="#" style="background-color: #a7e92f">
                                 <img class="mx-1" src="assets/img/market/appstore-dark.svg" width="136" alt="App Store">
                             </a>
-                            <a class="btn btn-light btn-lg px-3 py-2" href="#" style="background-color: #a7e92f">
+                            <a class="btn btn-lg px-3 py-2" href="#" style="background-color: #a7e92f">
                                 <img class="mx-1" src="assets/img/market/googleplay-dark.svg" width="135" alt="Google Play">
                             </a>
                         </div>
