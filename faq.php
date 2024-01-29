@@ -20,50 +20,71 @@ include "./components/navbar.php";
                         <div class="accordion" id="faq">
                             <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#questionOne" aria-expanded="true" aria-controls="questionOne">Is there a free trial?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionOne" aria-expanded="true" aria-controls="questionOne">How can I create an account?</button>
                                 </h3>
-                                <div class="accordion-collapse collapse show" id="questionOne" aria-labelledby="headingOne" data-bs-parent="#faq">
-                                    <div class="accordion-body fs-sm">Adipiscing sagittis neque egestas id platea accumsan. Morbi inpa platea urna curabitur habitant pulvinar lacinia neque. Netus gravida amet, aliquam quam turpis aliquet cras. Find aute irure dolor in reprehenderit voluptate velit esse cillum dolore eu nulla pariatur. Sit amet, adipiscing elit.</div>
+                                <div class="accordion-collapse collapse" id="questionOne" aria-labelledby="headingOne" data-bs-parent="#faq">
+                                    <div class="accordion-body fs-sm">To become a user with kewiss, you will need to first download our Rider App and then register with us to get access to use our Platform. Go to the google play store or Apple App store to download the app and sign up.</div>
                                 </div>
                             </div>
 
                             <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionTwo" aria-expanded="false" aria-controls="questionTwo">How do refunds work?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionTwo" aria-expanded="false" aria-controls="questionTwo">How to order a ride?</button>
                                 </h3>
                                 <div class="accordion-collapse collapse" id="questionTwo" aria-labelledby="headingTwo" data-bs-parent="#faq">
-                                    <div class="accordion-body fs-sm">Quisque rutrum sit amet magna sit amet tristique. Vivamus rhoncus ac purus vitae convallis. Aliquam erat volutpat. Proin egestas, mauris ut semper semper, ipsum felis mattis ligula, et porttitor ante arcu nec ante. Aliquam congue est eu turpis sollicitudin, et ullamcorper tortor aliquam.</div>
+                                    <div class="accordion-body fs-sm">
+                                        <ul>
+                                            <li>Open your app and sign in to Kwiss Ride.</li>
+                                            <li>Tap the ‘where do you want to go’ field. This will open a screen that lets you input your pickup and drop-off location.</li>
+                                            <li>Tap on the ‘destination’ field and input your destination, the app will display a listing of addresses that matches your input, tap the listing that best matches the location based on the location’s address and name.</li>
+                                            <li>Tap on the ‘Ride class’ field and select the preferred class of ride.</li>
+                                            <li>Select the payment option.</li>
+                                            <li>Review the information displayed and ‘confirm’ you can adjust the pin on the map to your exact location.</li>
+                                            <li>Upon confirmation, the app will send your request to the nearest driver to you.</li>
+                                            <li>From your app, you can see when a driver is en route to your pickup location, when he arrives and the wait time.</li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionThree" aria-expanded="false" aria-controls="questionThree">Do you offer student discounts?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionThree" aria-expanded="false" aria-controls="questionThree">How to fund wallet?</button>
                                 </h3>
                                 <div class="accordion-collapse collapse" id="questionThree" aria-labelledby="headingThree" data-bs-parent="#faq">
-                                    <div class="accordion-body fs-sm">Proin ac quam eget velit luctus tincidunt vel in nunc. Maecenas cursus erat lacus, id interdum elit accumsan in. Mauris placerat dapibus sem, condimentum interdum nulla varius ac. Mauris quam mauris, rhoncus et tortor vel, tempus dignissim libero. Curabitur sed odio in odio elementum cursus.</div>
+                                    <div class="accordion-body fs-sm">
+                                    To fund your wallet via bank transfer, please follow the steps below
+                                        <ul>
+                                            <li>Click on wallet.</li>
+                                            <li>Click on the ”fund wallet” button.</li>
+                                            <li>Enter the amount to you wish to add to your wallet and click the ”fund” button.</li>
+                                            <li>Choose payment method (card or transfer).</li>
+                                            <li>If card, a pop-up menu for card details will display, enter the card details and proceed.</li>
+                                            <li>If transfer, an account number is presented to the user to make a transfer to the account, the wallet will be funded if the process is successful.</li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionFour" aria-expanded="false" aria-controls="questionFour">What happens if I run out of credit?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionFour" aria-expanded="false" aria-controls="questionFour">Rider wallet withdrawal?</button>
                                 </h3>
                                 <div class="accordion-collapse collapse" id="questionFour" aria-labelledby="headingFour" data-bs-parent="#faq">
-                                    <div class="accordion-body fs-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac pretium dui. Aliquam rutrum justo lorem, in efficitur odio efficitur vel. Integer mattis, neque malesuada sagittis porttitor, enim tortor ullamcorper diam, id eleifend sem mauris at turpis. Curabitur sed nisi nec ligula dictum.</div>
+                                    <div class="accordion-body fs-sm">Unfortunately, users cannot transfer funds out from a wallet as this feature is currently not available on the app.</div>
                                 </div>
                             </div>
 
                             <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionFive" aria-expanded="false" aria-controls="questionFive">Do you have monthly and yearly billing options?</button>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionFive" aria-expanded="false" aria-controls="questionFive">What happens if I get into an accident while riding in Kewiss?</button>
                                 </h3>
                                 <div class="accordion-collapse collapse" id="questionFive" aria-labelledby="headingFive" data-bs-parent="#faq">
-                                    <div class="accordion-body fs-sm">Vestibulum faucibus lectus eget augue pharetra, quis semper lectus gravida. Vestibulum pretium in elit sed iaculis. Curabitur elementum turpis at ipsum molestie, id maximus odio tincidunt. Praesent id lacinia orci. Phasellus at varius arcu. Ut nec lobortis velit.</div>
+                                    <div class="accordion-body fs-sm">If you're injured in an accident while riding in Kewiss, you may be eligible to file a personal injury claim. Immediately notify the police and paramedics if necessary and let us know about the situation via the app.</div>
                                 </div>
                             </div>
 
-                            <div class="accordion-item bg-light">
+                            <!-- <div class="accordion-item bg-light">
                                 <h3 class="accordion-header" id="headingSix">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#questionSix" aria-expanded="false" aria-controls="questionSix">What happens when I change plans?</button>
                                 </h3>
@@ -79,7 +100,7 @@ include "./components/navbar.php";
                                 <div class="accordion-collapse collapse" id="questionSeven" aria-labelledby="headingSeven" data-bs-parent="#faq">
                                     <div class="accordion-body fs-sm">Morbi a consequat diam. Fusce sit amet faucibus erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque id est dictum, suscipit neque id, ornare nibh. Cras lacinia, est non ultrices porttitor, arcu orci rhoncus leo, egestas condimentum lorem.</div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
