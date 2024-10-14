@@ -32,7 +32,7 @@ include "./components/navbar.php";
 
             <!-- Clients (visible on screens > 768px) -->
             <div class="position-absolute bottom-0 d-none d-md-block" style="left: 77.5%;">
-                <img class="position-relative z-2 d-dark-mode-none" src="https://around.createx.studio/assets/img/landing/insurance/hero/clients-light.png" width="282" alt="Google reviews">
+                <img class="position-relative z-2 d-dark-mode-none" src="./assets/img/clients-light.png" width="282" alt="Google reviews">
                 <img class="position-relative z-2 d-none d-dark-mode-block" src="https://around.createx.studio/assets/img/landing/insurance/hero/clients-dark.png" width="282" alt="Google reviews">
                 <div class="position-absolute top-0 start-0 w-100 h-100 bg-light rounded-3 shadow-sm d-dark-mode-none"></div>
                 <div class="position-absolute top-0 start-0 w-100 h-100 rounded-3 d-none d-dark-mode-block" style="background-color: #202327;"></div>
@@ -41,7 +41,7 @@ include "./components/navbar.php";
             <!-- Clients (visible on screens < 768px) -->
             <div class="d-flex flex-column flex-sm-row gap-3 pt-3 d-md-none">
                 <div class="position-relative d-flex justify-content-center w-100">
-                <img class="position-relative z-2 d-dark-mode-none" src="https://around.createx.studio/assets/img/landing/insurance/hero/clients-light.png" width="282" alt="Google reviews">
+                <img class="position-relative z-2 d-dark-mode-none" src="./assets/img/clients-light.png" width="282" alt="Google reviews">
                 <img class="position-relative z-2 d-none d-dark-mode-block" src="https://around.createx.studio/assets/img/landing/insurance/hero/clients-dark.png" width="282" alt="Google reviews">
                 <div class="position-absolute top-0 start-0 w-100 h-100 bg-light rounded-3 shadow-sm d-dark-mode-none"></div>
                 <div class="position-absolute top-0 start-0 w-100 h-100 rounded-3 d-none d-dark-mode-block" style="background-color: #202327;"></div>

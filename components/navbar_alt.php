@@ -6,9 +6,9 @@
                 <img src="assets/img/logoDark.svg" alt="logo" width="100">
             </a>
 
-            <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
+            <!-- <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
                 Partnership
-            </a>
+            </a> -->
 
             <a class="btn btn-dark fs-sm order-lg-3 d-none d-sm-inline-flex" href="download">
                 Download
@@ -20,6 +20,9 @@
 
             <nav class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav navbar-nav-scroll mx-auto" style="--ar-scroll-height: 520px;">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./">Home</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="how-it-works">How it works</a>
                     </li>
@@ -37,9 +40,9 @@
                     </li>
                 </ul>
                 <div class="d-sm-none p-3 mt-n3">
-                    <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
+                    <!-- <a class="btn btn-outline-dark me-2 fs-sm order-lg-3 d-none d-sm-inline-flex" href="partnership">
                         Partnership
-                    </a>
+                    </a> -->
                     <a class="btn btn-dark w-100 mb-1" href="download">
                         Download
                     </a>
